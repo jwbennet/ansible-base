@@ -1,0 +1,6 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+  "name": "ansible-base",
+  "image": "ghcr.io/jwbennet/ansible-base-dev-container:latest",
+  "postCreateCommand": "task setup"
+}

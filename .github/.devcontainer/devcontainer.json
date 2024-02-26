@@ -1,0 +1,5 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+  "name": "ansible-base",
+  "image": "ghcr.io/jwbennet/project-base-dev-container:2.1.0"
+}
